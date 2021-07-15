@@ -1,2 +1,3 @@
 # DrumBeats
 My first normal javascript project
+Here I am using basic front-end development tools for instance HTML, CSS and Javascript to make a drum beating page according to the user.....
